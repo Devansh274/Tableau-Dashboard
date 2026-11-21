@@ -1,0 +1,23 @@
+
+= BA REVIEWS CLEANING =
+Original shape: (1324, 19)
+BA Reviews: Removed 0 duplicate rows
+
+Missing values in BA Reviews:
+  traveller_type: 1
+  seat_comfort: 11
+  cabin_staff_service: 11
+  food_beverages: 100
+  ground_service: 4
+  entertainment: 457
+Final shape: (1324, 19)
+
+= COUNTRIES CLEANING =
+Original shape: (251, 4)
+Invalid/missing country codes: 1
+Countries: Removed 0 duplicate rows
+Duplicate country names: 0
+
+Missing values in Countries:
+  code: 1
+Final shape: (251, 4)
